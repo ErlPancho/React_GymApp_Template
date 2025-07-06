@@ -6,7 +6,7 @@ position: fixed;
 display: flex;
 flex-direction: row;
 justify-content: space-between;
-padding: 20px;
+padding: 10px;
 background-color: teal;
 border-radius: 10px;
 }
